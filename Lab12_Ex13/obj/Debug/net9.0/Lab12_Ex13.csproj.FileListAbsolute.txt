@@ -1,0 +1,15 @@
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\bin\Debug\net9.0\Lab12_Ex13.exe
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\bin\Debug\net9.0\Lab12_Ex13.deps.json
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\bin\Debug\net9.0\Lab12_Ex13.runtimeconfig.json
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\bin\Debug\net9.0\Lab12_Ex13.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\bin\Debug\net9.0\Lab12_Ex13.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.GeneratedMSBuildEditorConfig.editorconfig
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.AssemblyInfoInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.AssemblyInfo.cs
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.csproj.CoreCompileInputs.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.sourcelink.json
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\refint\Lab12_Ex13.dll
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.pdb
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\Lab12_Ex13.genruntimeconfig.cache
+D:\natthanitcha_work\OOP (FRI)\LAB 12\Lab12-CSharp-Class-Inheritance\Lab12_Ex13\obj\Debug\net9.0\ref\Lab12_Ex13.dll
